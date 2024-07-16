@@ -65,5 +65,6 @@ public class sachh {
     public void setNhaXB(String nhaXB) {
         this.nhaXB = nhaXB;
     }
+    saii cái cc t nè Nam
 }
 
